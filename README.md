@@ -1,1 +1,1 @@
-"As an intern at Bharat Intern, I worked on an SMS spam collection project utilizing machine learning techniques. This experience allowed me to enhance my skills in data preprocessing, feature extraction, and model building. I gained hands-on experience with algorithms such as Naive Bayes and decision trees, which I used to classify SMS messages as spam or not. The project improved my ability to work with unstructured data and solidified my understanding of how machine learning models can be applied to real-world problems."
+
